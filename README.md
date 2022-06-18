@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# Deployed Link : https://github.com/sumitra05/Covid-tracker
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,39 @@
+.LoginDiv{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 200px auto;
+    background-color: rgb(199, 167, 167);
+    gap: 20px;
+    padding: 30px 60px;
+    border-radius: 10px;
+}
+
+.LoginDiv>input{
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.LoginBtn{
+    background : rgb(126, 126, 193);
+    font-size: larger;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;;
+}
+
+.LoginDiv>span{
+    margin: auto;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.LoginDiv>p{
+    color: black;
+}
+
+.LoginDiv>p>span{
+    color: rgb(148, 11, 93);
+    cursor: pointer;
+}

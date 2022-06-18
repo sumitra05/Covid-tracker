@@ -1,0 +1,60 @@
+.filterBox{
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+    padding-left: 10%;
+    margin-left: 20px;
+    width: 85%;
+    border: 1px solid grey;
+}
+
+.filterBox h3{
+    color: rgb(205, 79, 134);
+}
+
+.filterDetails{
+    margin-top: 20px;
+}
+
+.select{
+    border: none;
+    outline: none;
+    margin-right: 40px;
+}
+
+.filteration{
+    display: flex;
+    margin-top: 30px;
+    gap:10px;
+    margin-left: 30px;
+}
+
+.totalBox{
+    margin-left: 20px;
+    width: 29%;
+    border: 1px solid black;
+}
+
+.totalBox h3{
+   color: rgb(166, 21, 21);
+}
+
+.chooseRange{
+    display: flex; 
+    margin-left: 30%;
+    gap: 10px;
+}
+
+.inputDate{
+    border: none;
+    outline-color: blue;
+}
+
+.table{
+    margin-top: 50px;
+}
+
+
+.table table{
+   width: 92%;
+}

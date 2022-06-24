@@ -1,72 +1,50 @@
-# Getting Started with Create React App
+# Covid Tracker Dashboard
 
-## Deployed Link : https://github.com/sumitra05/Covid-tracker
+Through this app user can signup and sign in for access the Covid-tracker app and track the Covid cases globally or country wise through graph representation.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tech Stack Used 💻
 
-## Available Scripts
+- ReactJS
+- React-hooks
+- css3
+- JavaScript
 
-In the project directory, you can run:
+## How to run the project 🚀
 
-### `npm start`
+Please fork the repository and then use it on your own.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can also take a glimpse of our Project, just follow the below steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Run the command npm run start in terminal to start the app at port 3000.
 
-### `npm test`
+2. Go to the browser you will land on the home page.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Snapshots 📷
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Signup page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![SignUp Page](./Images/signup.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Login page
 
-### `npm run eject`
+![Login Page](./Images/login.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Home Page
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Home Page](./Images/homepage.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Features ✨
+- I have added Login and signup pages in the app.
+- User can track Covid cases globally or country wise.
 
-## Learn More
+## Demo 🎥
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Deployed Link: [Covid Tracker](https://covid-tracker-mfjeayt97-sumitra05.vercel.app/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Team Members and Contributors 😇
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 Solo Project
+- Duration 2 days
+- Github : [Sumitra Awadhiya](https://github.com/sumitra05)
